@@ -12,3 +12,7 @@ post_date: 2020-06-09 18:18:36
 <!-- wp:paragraph -->
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This is a new block. Modification will make new commit in Github!</p>
+<!-- /wp:paragraph -->
